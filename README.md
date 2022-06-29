@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello there! 👋
+
+- 💻 I’m currently working on the capstone project from Scrimba's frontend developer course! Here's a [link](https://scrimba.com/learn/frontend) to their site: 
+- 🌱 I’m currently learning about React, JavaScript, and algorithms/data structures!
+
 
 <!--
 **AaronoKwok/AaronoKwok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

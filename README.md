@@ -1,6 +1,6 @@
 ### Hello there! 👋
 
-- 💻 I’m currently locally modifying the capstone project from Scrimba's frontend developer course! Here's a [link](https://scrimba.com/learn/frontend) to Scrimba's site. 
+- 💻 I’m currently working on my first portfolio project called Foam Patrol. It's a site inspired by Surfline.com and Barefoot Surf Travel.  
 - 🌱 I’m currently learning about React, JavaScript, and algorithms/data structures!
 
 

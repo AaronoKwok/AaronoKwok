@@ -1,7 +1,7 @@
 ### Hello there! 👋
 
-- 💻 I’m currently working on my first portfolio project called Foam Patrol. It's a site inspired by Surfline.com and Barefoot Surf Travel.  
-- 🌱 I’m currently learning about React, JavaScript, and algorithms/data structures!
+- 💻 I’m currently working on making my first portfolio project called Foam Patrol mobile browser friendly. It's a site inspired by Surfline.com and Barefoot Surf Travel. It's main feature is a surf spot's live conditions. 
+- 🌱 I’m currently learning more about React, JavaScript, and algorithms/data structures!
 
 
 <!--

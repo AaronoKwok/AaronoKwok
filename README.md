@@ -1,6 +1,6 @@
 # Hello there! 👋
 
-I'm a **frontend developer** based in the **SF Bay Area, CA.** <br>
+I'm a **frontend developer** based in the **SF Bay Area**. <br>
 You can send me a message on <a href="https://www.linkedin.com/in/aaronkwok1/" target="_blank" >LinkedIn</a> 📫
 
 ## 💻 Skills  

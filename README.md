@@ -3,7 +3,7 @@
 I'm a frontend developer based in the SF Bay Area, CA.
 You can send me a message on [LinkedIn](https://www.linkedin.com/in/aaronkwok1/) 📫
 
-## 💻 Skills 
+## 💻 Skills  
 
 - React, Redux, JavaScript, HTML, CSS
 

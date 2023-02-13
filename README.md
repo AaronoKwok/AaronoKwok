@@ -1,6 +1,9 @@
-### Hello there! 👋
+# Hello there! 👋
+I'm a frontend developer based in the SF Bay Area, CA.
+You can send me a message on [LinkedIn](https://www.linkedin.com/in/aaronkwok1/) 📫
 
-- 💻 I'm currently making a VanillaJS application to further learn JS on the DOM.
+## 💻 Skills 
+- 
 - 🌱 I’m also learning more about React Redux, Redux Toolkit, JavaScript on the DOM, and algorithms/data structures!
 - 🔭 I’m currently seeking frontend software positions!
 

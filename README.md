@@ -25,7 +25,7 @@ You can send me a message on [LinkedIn](https://www.linkedin.com/in/aaronkwok1/)
             <ul>
                 <li>React</li>
                 <li>API data retrieval</li>
-                <li>Javascript's build-in Date object</li>
+                <li>Javascript's built-in Date object</li>
                 <li>Mobile responsiveness</li>
             </ul>
         </td>

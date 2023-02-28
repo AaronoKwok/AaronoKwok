@@ -1,7 +1,7 @@
 # Hello there! 👋
 
 I'm a **frontend developer** based in the **SF Bay Area**. <br>
-Check out my portfolio at: <a href="https://aaronkodes.netlify.app/" target"_blank">AaronKodes</a>
+Check out my portfolio at: <a href="https://aaronkodes.netlify.app/" target="_blank" >AaronKodes</a>
 You can send me a message on <a href="https://www.linkedin.com/in/aaronkwok1/" target="_blank" >LinkedIn</a> 📫
 
 ## 💻 Skills  

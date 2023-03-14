@@ -6,7 +6,7 @@ You can send me a message on <a href="https://www.linkedin.com/in/aaronkwok1/" t
 
 ## 💻 Skills  
 
-- React, Redux, JavaScript, HTML, CSS
+- React, Redux, JavaScript, HTML5, CSS3, jQuery, Bootstrap, Git, Figma, TailwindCSS
 
 ## 🌱 Growth
 

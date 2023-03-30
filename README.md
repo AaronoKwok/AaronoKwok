@@ -10,7 +10,7 @@ You can send me a message on <a href="https://www.linkedin.com/in/aaronkwok1/" t
 
 ## 🌱 Growth
 
-- Lately, I've been learning NodeJS and Express!
+- Lately, I've been learning MERN for backend development!
 
 ## 💼 Projects
 

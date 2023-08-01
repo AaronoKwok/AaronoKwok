@@ -10,7 +10,7 @@ You can send me a message on <a href="https://www.linkedin.com/in/aaronkwok1/" t
 
 ## 🌱 Growth
 
-- Lately, I've been learning MERN for backend development!
+- With the current state of the entry level tech market, I have decided to pursue positions in business and customer support.
 
 ## 💼 Projects
 

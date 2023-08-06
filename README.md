@@ -8,10 +8,6 @@ You can send me a message on <a href="https://www.linkedin.com/in/aaronkwok1/" t
 
 - React, Redux, JavaScript, HTML5, CSS3, jQuery, Bootstrap, Git, Figma, TailwindCSS
 
-## 🌱 Growth
-
-- With the current state of the entry level tech market, I have decided to pursue positions in business and customer support.
-
 ## 💼 Projects
 
 <table>
